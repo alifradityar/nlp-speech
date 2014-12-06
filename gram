@@ -1,0 +1,2 @@
+$number = NOL | SATU | DUA | TIGA | EMPAT | LIMA | ENAM | TUJUH | DELAPAN | SEMBILAN;
+(SENT-START <$number> SENT-END)

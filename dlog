@@ -1,0 +1,32 @@
+WARNING: no script file global.ded
+WARNING: no script file number_lexicon.lex.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+number_lexic        12         10         12         10
+        dict        10         10         10         10
+
+10 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. d     :     2
+  2. ah    :    13
+  3. l     :     4
+  4. p     :     2
+  5. n     :     4
+  6. uh    :     4
+  7. w     :     1
+  8. m     :     4
+  9. t     :     4
+ 10. ih    :     2
+ 11. ow    :     1
+ 12. s     :     2
+ 13. b     :     1
+ 14. iy    :     1
+ 15. g     :     1
+ 16. jh    :     1
+ 17. hh    :     1
+
+Dictionary dict created
