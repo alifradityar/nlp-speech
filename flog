@@ -1,0 +1,33 @@
+WARNING: no script file number_lexicon.lex.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+number_lexic        12         12         12         12
+    dict-tri        12         12         12         12
+
+12 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. d     :     2
+  2. ah    :    13
+  3. l     :     4
+  4. p     :     2
+  5. n     :     4
+  6. sp    :    10
+  7. uh    :     4
+  8. w     :     1
+  9. m     :     4
+ 10. t     :     4
+ 11. ih    :     2
+ 12. ow    :     1
+ 13. s     :     2
+ 14. b     :     1
+ 15. iy    :     1
+ 16. sil   :     2
+ 17. g     :     1
+ 18. jh    :     1
+ 19. hh    :     1
+
+Dictionary dict-tri created
