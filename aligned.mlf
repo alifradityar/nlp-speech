@@ -1,5 +1,5 @@
 #!MLF!#
-"*/sample1.lab"
+"'*'/sample1.lab"
 sil
 n
 ow
@@ -51,7 +51,7 @@ ah
 n
 sil
 .
-"*/sample2.lab"
+"'*'/sample2.lab"
 sil
 n
 ow
@@ -103,7 +103,7 @@ ah
 n
 sil
 .
-"*/sample3.lab"
+"'*'/sample3.lab"
 sil
 n
 ow
@@ -155,7 +155,7 @@ ah
 n
 sil
 .
-"*/sample4.lab"
+"'*'/sample4.lab"
 sil
 n
 ow
